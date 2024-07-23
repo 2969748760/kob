@@ -6,6 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// 实现机械化构造函数操作
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
