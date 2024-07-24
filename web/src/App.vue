@@ -49,7 +49,7 @@ export default {
     //   data: {
     //     username: "zzx2",
     //     password: "zzx220011214",
-    //     confirmedPassword: "zzx220011214",--;.dfgtrged`  5`    
+    //     confirmedPassword: "zzx220011214",--;.dfgtrged`  5`
     //   },
     //   success(resp) {
     //     console.log(resp);
